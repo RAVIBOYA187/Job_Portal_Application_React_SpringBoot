@@ -1,0 +1,538 @@
+{
+  "users": [
+    {
+      "name": "Sri",
+      "email": "sri@gmail.com",
+      "password": "123456",
+      "mobile": "9876543212",
+      "role": "user",
+      "appliedJobs": [],
+      "savedJobs": [],
+      "profileComplete": false,
+      "profile": {
+        "location": "hyd",
+        "educations": [],
+        "projects": [],
+        "experience": "Fresher",
+        "skills": "java,sql",
+        "bio": "",
+        "dob": "2026-06-04",
+        "gender": "Female",
+        "currentLocation": "Knr",
+        "languages": [],
+        "linkedinProfile": "",
+        "githubProfile": ""
+      },
+      "id": "WcQvUUNEIw4"
+    }
+  ],
+  "recruiters": [
+    {
+      "id": "QCACXDMTDPw",
+      "recruiterName": "Anoj Verma",
+      "companyName": "Accenture",
+      "password": "123456",
+      "email": "anojverma@accenture.com",
+      "role": "recruiter",
+      "mobile": "9876543216",
+      "location": "Hyd",
+      "website": "https://www.accenture.com"
+    },
+    {
+      "recruiterName": "Sindhuja",
+      "companyName": "My own Company",
+      "email": "myown@gmail.com",
+      "password": "123456",
+      "mobile": "9876543212",
+      "location": "",
+      "website": "https:.//myown.com",
+      "role": "recruiter",
+      "id": "NQ1MgUzWWuI"
+    }
+  ],
+  "admins": [
+    {
+      "id": "72LBlGSkt0M",
+      "name": "Admin",
+      "password": "123456",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "admincode": "admin@123"
+    }
+  ],
+  "jobs": [
+    {
+      "company": "bbbbbbbbbbbbbbb",
+      "logo": ".com",
+      "companyWebsite": "bbbbbbbbbbbbb",
+      "aboutCompany": "cccccccccccccccc",
+      "role": "s/w",
+      "department": "IT",
+      "location": "Pune",
+      "experience": "1 Year",
+      "salary": "2 Lpa",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "vacancies": "10",
+      "skills": [
+        "dsfre"
+      ],
+      "requirements": [
+        "ssssssssssssssssssssss"
+      ],
+      "responsibilities": [
+        "erewr"
+      ],
+      "eligibility": [
+        "erew"
+      ],
+      "description": "dsfsgtrtet",
+      "applyLink": "sdfe",
+      "id": "w2RzGDmaNLs",
+      "recruiterId": "QCACXDMTDPw",
+      "status": "Active",
+      "postedDate": "Just now",
+      "createdAt": "2026-06-17T12:39:56.385Z"
+    },
+    {
+      "company": "Anurag IT Solutions",
+      "logo": "ejhiwroew",
+      "companyWebsite": "hiewrjoew",
+      "aboutCompany": "jierknfnkdasdfghjkl",
+      "role": "Frontend Deveoper",
+      "department": "IT",
+      "location": "Hyd",
+      "experience": "Fresher",
+      "salary": "Based on Performance",
+      "jobType": "Full Time",
+      "workMode": "Hybrid",
+      "vacancies": "20",
+      "skills": [
+        "React.js"
+      ],
+      "requirements": [
+        "Strong knowledge of Front end libraries"
+      ],
+      "responsibilities": [
+        "ejriew"
+      ],
+      "eligibility": [
+        "BE",
+        "Btech"
+      ],
+      "description": "ierjoeroewr",
+      "applyLink": "wqjekiqwjeo",
+      "id": "9aLuiD_tURU",
+      "recruiterId": "QCACXDMTDPw",
+      "status": "Active",
+      "postedDate": "Just now",
+      "createdAt": "2026-06-17T18:39:46.917Z"
+    },
+    {
+      "company": "Toggle Now",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/120px-Accenture.svg.png?_=20241209170218",
+      "companyWebsite": "ashdwjerojepwr",
+      "aboutCompany": "heorjqorpwiw",
+      "role": "Python Developer",
+      "department": "IT",
+      "location": "Hyd",
+      "experience": "Fresher",
+      "salary": "4 LPA",
+      "jobType": "Full Time",
+      "workMode": "Remote",
+      "vacancies": "50",
+      "skills": [
+        "Pyhton",
+        "AIML"
+      ],
+      "requirements": [
+        "enrkewj"
+      ],
+      "responsibilities": [
+        "nqwkejqwje"
+      ],
+      "eligibility": [
+        "wekjwrojeor"
+      ],
+      "description": "hweqwoejqow",
+      "applyLink": "erhehwrh",
+      "id": "W9vhm7QpN2g",
+      "recruiterId": "QCACXDMTDPw",
+      "status": "Active",
+      "postedDate": "Just now",
+      "createdAt": "2026-06-17T18:46:26.491Z"
+    },
+    {
+      "company": "ddddddddddddddddddddddd",
+      "logo": "dddddd",
+      "companyWebsite": "ddddddd",
+      "aboutCompany": "ddddddddddddddddddd",
+      "role": "AIML Engineer",
+      "department": "IT",
+      "location": "Hyd",
+      "experience": "Experience",
+      "salary": "7LPA",
+      "jobType": "Full Time",
+      "workMode": "Onsite",
+      "vacancies": "2",
+      "skills": [
+        "Pyhton",
+        "AIML"
+      ],
+      "requirements": [
+        "tret"
+      ],
+      "responsibilities": [
+        "eeeeeeeeeeeeeee"
+      ],
+      "eligibility": [
+        "txvertrwtwdsahjyuku",
+        "sfawew"
+      ],
+      "description": "fgrewdv",
+      "applyLink": "ewrewt",
+      "id": "_8Ul4JREI1Q",
+      "recruiterId": "QCACXDMTDPw",
+      "status": "Active",
+      "postedDate": "Just now",
+      "createdAt": "2026-06-17T19:00:44.304Z"
+    },
+    {
+      "company": "zzzzzzzzzzzzz",
+      "logo": "zzzzzzz",
+      "companyWebsite": "zzzzzzzzzzzzzzzz",
+      "aboutCompany": "zzzzzzzzzzz",
+      "role": "zzzzzzz",
+      "department": "zzzzzzzzzzzzzz",
+      "location": "zzzzzzzzzzzzzzz",
+      "experience": "zzzzzzzzzzzzzz",
+      "salary": "zzzzzzzzzzzz",
+      "jobType": "Internship",
+      "workMode": "Remote",
+      "vacancies": "zzzzzz",
+      "skills": [
+        "zzzzzzzzz"
+      ],
+      "requirements": [
+        "zzzzzzzzzzzzzz"
+      ],
+      "responsibilities": [
+        "zzzzzzzzzzz"
+      ],
+      "eligibility": [
+        "zzzzzzzzzzzzzz"
+      ],
+      "description": "zzzzzzzzzz",
+      "applyLink": "zzzzzzzzzzzzzzz",
+      "id": "enrtIMTTR-s",
+      "recruiterId": "QCACXDMTDPw",
+      "status": "Active",
+      "postedDate": "Just now",
+      "createdAt": "2026-06-17T19:54:38.417Z"
+    },
+    {
+      "company": "Accenture",
+      "logo": "whriwto4",
+      "companyWebsite": "hrh34jo5i43",
+      "aboutCompany": "ewhr4io5",
+      "role": "wehruwi",
+      "department": "wehru34o5",
+      "location": "whriu34ou5",
+      "experience": "p;][oki",
+      "salary": "2",
+      "jobType": "Part Time",
+      "workMode": "Remote",
+      "vacancies": "44",
+      "skills": [
+        "Sql"
+      ],
+      "requirements": [
+        "riwejrowe"
+      ],
+      "responsibilities": [
+        "qwneiuo3432"
+      ],
+      "eligibility": [
+        "br32ku4hoi2je"
+      ],
+      "description": "ernk32u4io2",
+      "applyLink": "ewhr32io",
+      "id": "VAoQ2RNn-A4",
+      "recruiterId": "QCACXDMTDPw",
+      "status": "Active",
+      "postedDate": "Just now",
+      "createdAt": "2026-06-21T16:07:39.007Z"
+    },
+    {
+      "company": "zomato",
+      "logo": "jhgjguk",
+      "companyWebsite": "yyftsioigiu",
+      "aboutCompany": "uuyftydy",
+      "role": "vghggjk",
+      "department": "gdty",
+      "location": "ghiuy8",
+      "experience": "7",
+      "salary": "guy",
+      "jobType": "Full Time",
+      "workMode": "Onsite",
+      "vacancies": "3",
+      "skills": [
+        "Node js"
+      ],
+      "requirements": [
+        "bkuhiu"
+      ],
+      "responsibilities": [
+        "gjyru"
+      ],
+      "eligibility": [
+        "gjgiuy78687y8"
+      ],
+      "description": "dfyhijknkh",
+      "applyLink": "ftyiugftykjhf",
+      "id": "jly9Qzdf_QY",
+      "recruiterId": "QCACXDMTDPw",
+      "status": "Active",
+      "postedDate": "Just now",
+      "createdAt": "2026-06-21T16:35:07.458Z"
+    }
+  ],
+  "jobListings": [],
+  "savedJobs": [],
+  "profile": {},
+  "applications": [
+    {
+      "jobId": "W9vhm7QpN2g",
+      "company": "Toggle Now",
+      "role": "Python Developer",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "dob": "2026-06-04",
+      "gender": "Female",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "bio": "",
+      "languages": [],
+      "linkedinProfile": "",
+      "githubProfile": "",
+      "educations": [],
+      "projects": [],
+      "status": "Rejected",
+      "createdAt": "2026-06-18T14:21:48.198Z",
+      "appliedDate": "2026-06-18",
+      "id": "DaZ9ne5zZS4"
+    },
+    {
+      "jobId": "2IIcBPgQ8lU",
+      "company": "Google",
+      "role": "Software Engineer",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "status": "Rejected",
+      "createdAt": "2026-06-18T14:27:48.343Z",
+      "appliedDate": "2026-06-18",
+      "id": "MXx6_5oVbJc",
+      "rejectReason": "nothing to say"
+    },
+    {
+      "jobId": "w2RzGDmaNLs",
+      "company": "bbbbbbbbbbbbbbb",
+      "role": "s/w",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "dob": "2026-06-04",
+      "gender": "Female",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "bio": "",
+      "languages": [],
+      "linkedinProfile": "",
+      "githubProfile": "",
+      "educations": [],
+      "projects": [],
+      "status": "Rejected",
+      "createdAt": "2026-06-18T14:43:34.437Z",
+      "appliedDate": "2026-06-18",
+      "id": "MXDCggV1Z3U",
+      "rejectReason": "nothing 2"
+    },
+    {
+      "jobId": "9aLuiD_tURU",
+      "company": "Anurag IT Solutions",
+      "role": "Frontend Deveoper",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "dob": "2026-06-04",
+      "gender": "Female",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "bio": "",
+      "languages": [],
+      "linkedinProfile": "",
+      "githubProfile": "",
+      "educations": [],
+      "projects": [],
+      "status": "Rejected",
+      "createdAt": "2026-06-18T14:46:22.648Z",
+      "appliedDate": "2026-06-18",
+      "id": "m1cUZeU5NaA",
+      "rejectReason": "nothing 3"
+    },
+    {
+      "jobId": "enrtIMTTR-s",
+      "company": "zzzzzzzzzzzzz",
+      "role": "zzzzzzz",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "dob": "2026-06-04",
+      "gender": "Female",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "bio": "",
+      "languages": [],
+      "linkedinProfile": "",
+      "githubProfile": "",
+      "educations": [],
+      "projects": [],
+      "status": "Rejected",
+      "createdAt": "2026-06-18T14:49:15.983Z",
+      "appliedDate": "2026-06-18",
+      "id": "cUuOUXQiJ-M"
+    },
+    {
+      "jobId": "_8Ul4JREI1Q",
+      "company": "ddddddddddddddddddddddd",
+      "role": "AIML Engineer",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "dob": "2026-06-04",
+      "gender": "Female",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "bio": "",
+      "languages": [],
+      "linkedinProfile": "",
+      "githubProfile": "",
+      "educations": [],
+      "projects": [],
+      "status": "Applied",
+      "createdAt": "2026-06-18T17:06:20.622Z",
+      "appliedDate": "2026-06-18",
+      "id": "LYGe_TdEGWw"
+    },
+    {
+      "jobId": "XZPhN3FhdeM",
+      "company": "bbbbbbbbbbbbbbb",
+      "role": "s/w",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "status": "Rejected",
+      "createdAt": "2026-06-18T17:08:36.278Z",
+      "appliedDate": "2026-06-18",
+      "id": "DoZ_aMu9Tec"
+    },
+    {
+      "jobId": "VAoQ2RNn-A4",
+      "company": "Accenture",
+      "role": "wehruwi",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "dob": "2026-06-04",
+      "gender": "Female",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "bio": "",
+      "languages": [],
+      "linkedinProfile": "",
+      "githubProfile": "",
+      "educations": [],
+      "projects": [],
+      "status": "Rejected",
+      "createdAt": "2026-06-21T16:09:23.273Z",
+      "appliedDate": "2026-06-21",
+      "id": "YASxipIk_5g"
+    },
+    {
+      "jobId": "jly9Qzdf_QY",
+      "company": "zomato",
+      "role": "vghggjk",
+      "recruiterId": "QCACXDMTDPw",
+      "applicantId": "WcQvUUNEIw4",
+      "applicantName": "Sri",
+      "email": "sri@gmail.com",
+      "mobile": "9876543212",
+      "location": "hyd",
+      "dob": "2026-06-04",
+      "gender": "Female",
+      "currentLocation": "Knr",
+      "experience": "Fresher",
+      "skills": "java,sql",
+      "bio": "",
+      "languages": [],
+      "linkedinProfile": "",
+      "githubProfile": "",
+      "educations": [],
+      "projects": [],
+      "status": "Rejected",
+      "createdAt": "2026-06-21T16:35:41.940Z",
+      "appliedDate": "2026-06-21",
+      "id": "NUXFjb0Lews"
+    }
+  ],
+  "notifications": [
+    {
+      "userId": "WcQvUUNEIw4",
+      "title": "Application Rejected ❌",
+      "message": "Your application for zzzzzzz at zzzzzzzzzzzzz was rejected",
+      "reason": "not suitable for this role",
+      "date": "26 Jun 2026, 12:01 am",
+      "read": true,
+      "id": "4I5bqvs4D4g"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

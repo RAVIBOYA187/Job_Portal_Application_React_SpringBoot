@@ -1,0 +1,87 @@
+
+
+.sidebar{
+  width:240px;
+  background:#0f172a;
+  color:white;
+  padding: 15px;
+  height: 100vh;
+  padding-bottom: 0px;
+  position:fixed;
+  left:0;
+  top:0;
+  display:flex;
+  flex-direction:column;
+  box-sizing:border-box;   
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+.sidebar h2{
+  color: rgb(255, 255, 255);
+}
+.logo{
+  font-size:28px;
+  font-weight:700;
+  margin-bottom:40px;
+  color:#60a5fa;
+}
+
+/* NORMAL BUTTON */
+.btn{
+  display:flex;
+  align-items:center;
+  gap:15px;
+
+  padding:14px 10px;
+
+  border-radius:12px;
+  color:#cbd5e1;
+  text-decoration:none;
+
+  transition:.3s;
+}
+
+.btn:hover{
+  background:#ffffff;
+  color:white;
+}
+
+.btn.active{
+  background:#2563eb;
+  color:white;
+}
+
+/* HOVER */
+.btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* ACTIVE PAGE (LINKEDIN STYLE) */
+.active {
+  background: white;
+  color: #0a66c2;
+  font-weight: bold;
+  border-left: 5px solid white;
+}
+
+/* LOGOUT SPECIAL */
+.logout{
+  margin-top:auto;
+  background:#ef4444;
+  color:white;
+  text-align:center;
+}
+
+.logout:hover {
+  background: #ff1f1f;
+}
+.menuHeading{
+  margin-top:20px;
+  margin-bottom:10px;
+
+  font-size:12px;
+  font-weight:600;
+
+  color:#94a3b8;
+  letter-spacing:1px;
+}
